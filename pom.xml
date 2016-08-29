@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>osgi6-multi-bundle</artifactId>
-    <version>1.0.14-SNAPSHOT</version>
+    <version>1.0.14</version>
     <packaging>jar</packaging>
     <build>
         <plugins>
@@ -64,6 +64,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/maprohu/osgi6-multi-bundle.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>osgi6-multi-bundle-1.0.14</tag>
     </scm>
 </project>
